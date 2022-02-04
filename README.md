@@ -27,8 +27,8 @@ If we consider the Totals by the percentages for each city type...
 
 ![Total Fares Pie](analysis/Fig5.png) | ![Totla Rides Pie](analysis/Fig6.png) | ![Total Drivers Pie](analysis/Fig7.png)
 
-We can now see why the Totals for the Urban data is much larger that Suburban and Rural.
+We can now see why the Totals for the Urban data are much larger that Suburban and Rural.
 
 ### Let's verify the consistency by viewing the data over time
 
-![Total Fares over time](Fig8.png)
+![Total Fares over time](analysis/Fig8.png)
