@@ -20,11 +20,15 @@ If we plot the Average Fares per Ride against the Total Rides per city, with a f
 
 ![Scatter plot of Average Fares by Total Rides, by Total Drivers](analysis/Fig1.png)
 
-We can see that the Urban data, though at a lower rate, has more representation on the plot.
+We can see that the Urban data, though at a lower Average Fare, has more representation on the plot.
 
+### Let's take a look at the percentages
+If we consider the Totals by the percentages for each city type...
 
+![Total Fares Pie](analysis/Fig5.png) | ![Totla Rides Pie](analysis/Fig6.png) | ![Total Drivers Pie](analysis/Fig7.png)
 
+We can now see why the Totals for the Urban data is much larger that Suburban and Rural.
 
+### Let's verify the consistency by viewing the data over time
 
-
-
+![Total Fares over time](Fig8.png)
