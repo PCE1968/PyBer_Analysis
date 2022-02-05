@@ -32,3 +32,8 @@ We can now see why the Totals for the Urban data are much larger that Suburban a
 ### Let's verify the consistency by viewing the data over time
 
 ![Total Fares over time](analysis/Fig8.png)
+
+We can now see that even though the Rural averages are considerably higher than both the Urban and Suburban, they don't come close in terms of revenue. 
+
+## Summary
+When considering new markets, the size of the market should effect the strategy employed. Smaller markets are less competitive, which allow for higher per ride and per driver rates. Suburban markets are more competitive that Rural, which will require lower rates per ride. Where Urban markets are much more competitive and require lower per ride fares, which result in lower per driver fares, but the higher number of rides ultimately generates more revenue.
